@@ -1,5 +1,10 @@
-# SCRIPTS
+# KERNEL COMPILE/ZIP/PREBUILT FOLDER SCRIPT | ROM BUILDING SCRIPT | UPLOAD SCRIPT TO GoFile
 
+## Getting Started
+To get started with this script, clone this git to your desired folder
+```bash
+git clone https://github.com/willtanoe/scripts.git
+```
 ## up.sh (Upload File to GoFile)
 Executing the script
 ```bash
