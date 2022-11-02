@@ -1,16 +1,34 @@
 # SCRIPTS
 
 ## up.sh (Upload File to GoFile)
+Executing the script
 ```bash
 ./up.sh <path/to/file>
 ```
-## b15.sh (Kernel Build Script)
+## bk.sh (Kernel Build Script)
+Edit the value inside bk.sh coresponding to your project
+
+Executing the script
 ```bash
-./b15.sh
+./bk.sh
 ```
 
-## ra.ah (ROM Build Script)
+## ra.sh (ROM Build Script)
+Change this to for your usage
 ```bash
-./ra.sh
+clear
+cd ~/[rom environtment folder]
+
+. build/envsetup.sh
+
+lunch [rom type]_[device]-userdebug && mka bacon -j[your core number] | tee "build-log-$(date '+%Y%m%d-%H%M').txt"
+```bash
+
+Executing The script
+```bash
+./c.sh
 ```
+
+
+
 
