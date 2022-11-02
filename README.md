@@ -22,12 +22,12 @@ cd ~/[rom environtment folder]
 . build/envsetup.sh
 
 lunch [rom type]_[device]-userdebug && mka bacon -j[your core number] | tee "build-log-$(date '+%Y%m%d-%H%M').txt"
-```bash
-
+```
 Executing The script
 ```bash
 ./c.sh
-```bash
+```
+
 
 
 
