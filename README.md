@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://i.imgur.com/YlQH335.png" />
+</p>
+
+
+
 # KERNEL COMPILE/ZIP/PREBUILT KERNEL FOLDER SCRIPT | ROM BUILDING SCRIPT | UPLOAD SCRIPT TO GoFile
 
 ## Getting Started
