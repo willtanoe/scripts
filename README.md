@@ -27,7 +27,7 @@ lunch [rom type]_[device]-userdebug && mka bacon -j[your core number] | tee "bui
 Executing The script
 ```bash
 ./c.sh
-```
+```bash
 
 
 
