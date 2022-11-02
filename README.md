@@ -13,7 +13,7 @@ Executing the script
 ./bk.sh
 ```
 
-## ra.sh (ROM Build Script)
+## c.sh (ROM Build Script)
 Change this to for your usage
 ```bash
 clear
