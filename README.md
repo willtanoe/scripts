@@ -5,14 +5,10 @@ To get started with this script, clone this git to your desired folder
 ```bash
 git clone https://github.com/willtanoe/scripts.git
 ```
-## up.sh (Upload File to GoFile)
-Executing the script
-```bash
-./up.sh <path/to/file>
-```
+# USAGE
+
 ## bk.sh (Kernel Build Script)
 Edit the value inside coresponding to your project
-
 Executing the script
 ```bash
 ./bk.sh
@@ -32,6 +28,13 @@ Executing The script
 ```bash
 ./c.sh
 ```
+
+## up.sh (Upload File to GoFile)
+Executing the script
+```bash
+./up.sh <path/to/file>
+```
+
 
 
 
