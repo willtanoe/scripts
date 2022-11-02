@@ -1,4 +1,4 @@
-# KERNEL COMPILE/ZIP/PREBUILT FOLDER SCRIPT | ROM BUILDING SCRIPT | UPLOAD SCRIPT TO GoFile
+# KERNEL COMPILE/ZIP/PREBUILT KERNEL FOLDER SCRIPT | ROM BUILDING SCRIPT | UPLOAD SCRIPT TO GoFile
 
 ## Getting Started
 To get started with this script, clone this git to your desired folder
